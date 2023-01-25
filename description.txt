@@ -1,0 +1,10 @@
+Welcome to Better Frost Legion. It does as the name suggests. I don't forsee many content update when the mod becomes public.
+
+Version 1.0.o
+
+-Added a crafting recipe for the Snow Globe.
+   Five Glass
+   Twenty-Five Snow
+   Two Hallowed Bars
+
+-The new content is introduced post mech bosses.

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Ewk79zd1XLDi+HOSicqXfHOaRbN4E+pXJlxf9JyoOSiwQOuAi+F3SjUmusC2VkGUryVwX9x9Ep4IYI73cGOR5A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\riwil\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\BetterFrostLegion\\BetterFrostLegion.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\riwil\\.nuget\\packages\\tmodloader.codeassist\\0.1.5\\tmodloader.codeassist.0.1.5.nupkg.sha512"
+  ],
+  "logs": []
+}
